@@ -44,8 +44,8 @@ Any changes will be reflected on this page.
 
 ---
 
-# Contact
+## Contact
 
-If you have any questions about this policy, please contact the developer through GitHub.
+For questions or support, please visit the official website:
 
-https://github.com/EasyCommunity
+https://easycommunity.github.io/
