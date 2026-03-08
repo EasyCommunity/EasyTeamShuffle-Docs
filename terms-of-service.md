@@ -64,4 +64,4 @@ Continued use of the bot means you accept the updated terms.
 
 Project repository:
 
-https://github.com/EasyCommunity
+https://github.com/EasyCommunity/EasyTeamShuffle
