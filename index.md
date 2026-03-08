@@ -14,12 +14,6 @@ It is designed for gaming communities that need simple and fast team organizatio
 - Clear and readable embed results
 - Supports **Japanese and English commands**
 
-Learn more:
-
-- [Features](features)
-- [Commands](commands)
-- [Changelog](changelog)
-
 ---
 
 ## How It Works
@@ -40,8 +34,8 @@ or
 
 ## Documentation
 
-- [Commands](commands)
 - [Features](features)
+- [Commands](commands)
 - [Changelog](changelog)
 - [Privacy Policy](privacy-policy)
 - [Terms of Service](terms-of-service)
