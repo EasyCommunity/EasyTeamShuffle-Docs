@@ -46,6 +46,6 @@ Any changes will be reflected on this page.
 
 ## Contact
 
-For questions or support, please visit the official website:
+For questions or support, please visit:
 
-https://easycommunity.github.io/
+https://easycommunity.github.io/EasyTeamShuffle-Docs/
