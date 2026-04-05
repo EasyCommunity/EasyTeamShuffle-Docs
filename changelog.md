@@ -4,28 +4,16 @@ All notable changes to EasyTeamShuffle are documented here.
 
 ---
 
-## v2.2.0
-Current stable version.
-
-### Added
-- Display the user who triggered the re-shuffle in the result embed
-- Re-shuffle cooldown (10 seconds)
-
-### Improvements
-- Improved re-shuffle calculation logic
-- Fixed calculation issues during re-shuffle
-
----
-
-## v2.1.0
+## v1.5.0
 
 ### Added
 - Re-shuffle button to quickly reshuffle teams
+- Display the user who triggered the re-shuffle in the result embed
+- 10-second cooldown for re-shuffle
 
 ---
 
-## v2.0.0
-Major update introducing international support.
+## v1.4.0
 
 ### Added
 - English command support
@@ -33,7 +21,7 @@ Major update introducing international support.
 ### Improvements
 - Improved internal team distribution logic
 
-### Fixes
+### Fixed
 - Fixed calculation issues introduced by English command support
 
 ---
@@ -60,7 +48,6 @@ Major update introducing international support.
 ---
 
 ## v1.0.0
-Initial release.
 
 ### Added
 - Japanese commands
