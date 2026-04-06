@@ -1,3 +1,5 @@
+← [Back to Easy Community](https://easycommunity.github.io/)
+
 # EasyTeamShuffle
 
 EasyTeamShuffle is a Discord bot that quickly and fairly creates teams from members in a voice channel.
