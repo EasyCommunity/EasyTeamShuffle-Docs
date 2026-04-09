@@ -4,6 +4,14 @@ All notable changes to EasyTeamShuffle are documented here.
 
 ---
 
+## v1.6.0
+
+### Improvements
+- Improved stability and performance
+- Internal optimizations for a smoother experience
+
+---
+
 ## v1.5.0
 
 ### Added
